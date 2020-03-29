@@ -1,0 +1,8 @@
+body{
+    background-color: crimson;
+}
+
+img#ponto{    
+background-position-x: 600px;
+position:absolute; left:10px; top:250px; z-index: 1;
+}
