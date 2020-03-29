@@ -1,8 +1,32 @@
-body{
-    background-color: crimson;
-}
+h1#te{
+font: normal 30pt Arial;
+text-align: center;
+text-shadow: 2px 0px 5px rgb(0, 0, 0, 0.5);
+color: rgb(3, 101, 247);
+background-color: darkorange;
+padding: 5px 5px 5px;
+width: 300px;
+height: 45px;
+border-radius: 15px;
+box-shadow: 5px 5px 5px rgb(0, 0, 0, 0.5);
 
-img#ponto{    
+}
+img#ponto{   
 background-position-x: 600px;
-position:absolute; left:10px; top:250px; z-index: 1;
+position:absolute; left:200px; top:555px; z-index: 1;
+}
+img#ponto01{    
+    background-position-x: 600px;
+    position:absolute; left:198px; top:435px; z-index: 1;
+    }
+
+
+input#verde{
+    color: black;
+    font: bolder 18pt Arial;
+    background-color: rgb(167, 253, 6);
+    text-align: center;
+    height: 50px;
+    width: 190px;
+    position: absolute; left: 200px; top: 200px;
 }
